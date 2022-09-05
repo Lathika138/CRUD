@@ -1,0 +1,9 @@
+package com.example.niveus.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.example.niveus.entity.User;
+
+public interface UserRepository extends JpaRepository<User, Long>{
+
+}

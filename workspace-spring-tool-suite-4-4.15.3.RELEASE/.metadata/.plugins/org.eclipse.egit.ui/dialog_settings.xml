@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="Lathika138 &lt;lathika.k@niveussolutions.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Lathika138 &lt;lathika.k@niveussolutions.com&gt;"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Lathika138/CRUD.git"/>
+		<item value="https://github.com/Lathika138/FirstAssignment.git"/>
+		<item value="https://github.com/Lathika138/hello-world.git"/>
+		<item value="https://github.com/Lathika138/Training.git"/>
+		<item value="Lathika138@github.com:Lathika138/Training.git"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="/home/niveus/git/hello-world/.git">
+			<item value="false"/>
+			<item value="Lathika138 &lt;lathika.k@niveussolutions.com&gt;"/>
+			<item value="first"/>
+			<item value="Lathika138 &lt;lathika.k@niveussolutions.com&gt;"/>
+			<item value="4cc7ed2351b2c4c3b12b600ab30d94fdbe384a88"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+		<list key="/home/niveus/git/hello-world/firstassignmentmicroservices/README.md/.git">
+			<item value="empty"/>
+		</list>
+		<list key="/home/niveus/git/FirstAssignment/.git">
+			<item value="false"/>
+			<item value="Lathika138 &lt;lathika.k@niveussolutions.com&gt;"/>
+			<item value="CRUD operations push"/>
+			<item value="Lathika138 &lt;lathika.k@niveussolutions.com&gt;"/>
+			<item value="1c77c3a5283c5df624da569eaf1ec2c97c4dd31c"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="20"/>
+		<item key="DIALOG_Y_ORIGIN" value="20"/>
+		<item key="DIALOG_WIDTH" value="650"/>
+		<item key="DIALOG_HEIGHT" value="431"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.MergeTargetSelectionDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="20"/>
+		<item key="DIALOG_Y_ORIGIN" value="20"/>
+		<item key="DIALOG_WIDTH" value="613"/>
+		<item key="DIALOG_HEIGHT" value="648"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+	</section>
+</section>

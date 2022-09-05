@@ -1,0 +1,5 @@
+package com.niveus.model;
+
+public class Ticket {
+
+}

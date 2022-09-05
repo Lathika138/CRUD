@@ -1,0 +1,33 @@
+configuration
+git config --global  user.name "Lathika138"
+git config --global  user.email "lathika.k@niveussolutions.com"
+
+confirmation
+cat ~/.gitconfig
+
+to generate ssh key
+ssh-keygen -o
+
+cat /home/niveus/.ssh/id_rsa.pub
+copy key and paste to github
+
+create repository in github
+mkdir test
+cd test
+
+ls -la
+echo "# training" >> README.md
+git init
+
+git add README.md
+git status
+
+
+
+
+touch README
+git add README
+
+git add (all other files)
+git commit -m 'reinitialized files'
+git push origin master --force

@@ -1,0 +1,5 @@
+package com.example.niveus.repository;
+
+public interface UserRepository {
+
+}

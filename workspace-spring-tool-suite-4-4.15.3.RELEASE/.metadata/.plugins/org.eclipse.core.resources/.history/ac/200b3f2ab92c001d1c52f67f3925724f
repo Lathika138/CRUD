@@ -1,0 +1,5 @@
+package com.example.niveus.exception;
+
+public class ResourceNotFoundException {
+
+}
